@@ -16,7 +16,7 @@ For Example the file:
 
                     import github.com/awelch/microservice_base/server
 
-            could become:
+>could become:
 
                 New file:
                     project main
